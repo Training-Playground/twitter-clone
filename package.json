@@ -4,7 +4,7 @@
   "description": "Twitter clone",
   "keywords": ["twitter", "clone", "html", "css"],
   "license": "MIT",
-  "author": "Ranjith Suranga <suranga@ijse.lk> (ijse.lk)",
+  "author": "Ranjith Suranga <suranga@ijse.lk> (ijse.lk) Hamza Nazli <chemhamza@gmail.com>",
   "scripts": {
     "clear": "rm -rf docs",
     "build": "parcel build index.html 404.html --out-dir docs --public-url /twitter-clone/",
