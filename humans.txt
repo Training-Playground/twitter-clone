@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ranjith Suranga
+    suranga@ijse.lk (ijse.lk)
+    https://github.com/Ranjith-Suranga
+    https://twitter.com/cpt_sura_boy
+
+# THANKS
+
+    DEP 7 Team
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, ParcelJS, HTML5BoilerPlate, Normalize.css, NPM, GitHub
