@@ -88,10 +88,8 @@ textarea {
 }
 
 html{
-  font-family: TwitterChirp ;
+  font-family: TwitterChirp, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-
 
 @font-face {
   font-family: "TwitterChirp";
